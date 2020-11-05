@@ -1,4 +1,4 @@
-# The story
+
 
 My first model railroad was a present from my father. I imagine it was his goal to push me in some kind of technical direction and he succeeded since it became my main hobby.
 Depending on the space I had to my disposal, I build small and larger landscapes where up to 20 locomotives could make there turns. 
