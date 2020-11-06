@@ -1,5 +1,7 @@
 ---
 
+layout: post
+
 title: "first images"
 
 date: 2020-11-06
