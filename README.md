@@ -1,7 +1,5 @@
 # Here's my blog - the first time ever. 
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
-
 As you already may have noticed, English is not my mother tongue. So please forgive me my mistakes.
 
 In this blog i try to describe how it was, diving into the world of Artificial Intelligence. 
