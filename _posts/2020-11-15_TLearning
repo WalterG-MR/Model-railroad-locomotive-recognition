@@ -1,0 +1,14 @@
+
+So now i had my dataset 
+In the Guru course i arrived at Chapter 8 CNN and learned that by adding CNN to existing models you could increase the accuracy.
+I boldly admit that i did not believe that it would work on my project.
+But i applied chapter 8.7 Transfer Learning and after the classifying script was ready, the incredible result was an accuracy of 83% from the first try without optimizations.
+This time is did not reduce the image to 96 x 96 but i extended the detected ROI from 100 x 80 to 224 x 224.
+It took a while before the classify script worked, since it was not described in the course. But with a little help from the community forum and a bit of google, it worked.
+
+It was a great feeling and a relieve that i was at least not that stupid that i had to give up.
+Now i can continue on improve the result and i hope to get some comments from you on the coding i want to show you next time.
+
+Have a nice evening,
+
+Walter
