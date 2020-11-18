@@ -1,4 +1,4 @@
-# Here's my blog - the first time ever. 
+# Here's my blog about combining Model Railway and Computer Vision
 
 As you already may have noticed, English is not my mother tongue. So please forgive me my mistakes.
 
